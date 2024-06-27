@@ -13,17 +13,20 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:yjs52910801@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yjs52910801@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=costalika&custom_title=costalika's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costalika&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+<div style="text-align: left;">
+</div>
+<br>
+<div style="text-align: left;">
+</div>
+</div>
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+  <div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=costalika&custom_title=costalika's%20Github%20Stat&bg_color=180,000000&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costalika&layout=compact&bg_color=180,000000&title_color=000000&text_color=000000" />
+  </div>
+</div>
+
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디)
